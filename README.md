@@ -11,5 +11,5 @@ Node.js implementation of the String Calculator Kata using **Test-Driven Develop
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Govind932001/String-Calculator-Kata-using-Test-Driven-Development.git
    cd string-calculator-tdd
