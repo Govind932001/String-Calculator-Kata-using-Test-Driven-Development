@@ -13,3 +13,6 @@ Node.js implementation of the String Calculator Kata using **Test-Driven Develop
    ```bash
    git clone https://github.com/Govind932001/String-Calculator-Kata-using-Test-Driven-Development.git
    cd string-calculator-tdd
+
+## To Run Test
+npx jest 
